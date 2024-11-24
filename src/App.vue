@@ -65,6 +65,7 @@ export default {
   display: flex;
   gap: 30px;
   align-items: center;
+  font-family: 'Courier New', Courier, monospace;
 
   .arrows {
     display: flex;
